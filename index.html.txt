@@ -57,24 +57,24 @@
             max-width: 100%;
             height: auto;
             border-bottom: 1px solid #ddd;
-            margin-bottom: 10px;
+边距-底部:10px
         }
-        .product h3 {
-            margin: 10px 0;
-            font-size: 18px;
+。产品h3 {
+边距:10px 0；
+字体大小:18px
         }
-        .product p {
-            color: #888;
-            font-size: 14px;
+。产品p {
+颜色:# 888；
+字体大小:14px
         }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
+页脚{
+背景色:# 333；
+颜色:白色；
+文本对齐:居中；
+填充:10px
+位置:固定；
+宽度:100%；
+底部:0；
         }
     </style>
 </head>
@@ -131,8 +131,8 @@
         <section id="contact" class="section">
             <h2>聯絡我們</h2>
             <p>如有任何問題或訂單查詢，請聯絡我們：</p>
-            <p>Email: info@jadegold.com</p>
-            <p>電話: +886 123 456 789</p>
+            <p>Email: zhanshen892@gmail.com</p>
+            <p>電話: +886 952 097 221</p>
         </section>
     </div>
     <footer>
